@@ -1,1 +1,2 @@
 Hello, this is Osman Tahir and this is my first text file in github
+course code: COMP 229
