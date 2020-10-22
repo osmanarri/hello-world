@@ -1,2 +1,3 @@
 Hello, this is Osman Mohamed Tahir and this is my first text file in github
 course code: COMP 229
+Centennial College
